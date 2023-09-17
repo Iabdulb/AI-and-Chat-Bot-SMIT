@@ -1,1 +1,3 @@
 hello everyone. this is my first repository.
+this is the second addition to my first repository the other day.
+i am adding the third line to my first repo,, to became master in it.
