@@ -1,0 +1,25 @@
+h1 {
+    color: burlywood;
+    font-size: 2.5rem;
+    font-family: "Open Sans"
+}
+h2{
+    color:khaki;
+}
+
+.dim{
+    color: antiquewhite;
+}
+
+body{
+    background-color:#373942;
+    color: whitesmoke;
+    font-family: Tahoma;
+}
+
+.ProfilePhoto{
+    width: 150px;
+    border: 2px double khaki;
+    border-radius: 50%;
+    
+}
